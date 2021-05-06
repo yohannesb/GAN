@@ -1,4 +1,4 @@
-import cPickle as pkl
+import pickle
 import gzip
 import numpy
 
