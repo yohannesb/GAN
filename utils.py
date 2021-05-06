@@ -4,7 +4,7 @@ import os
 import codecs
 import logging
 from tempfile import mkstemp
-from itertools import zip
+izip = zip
 
 
 class AttrDict(dict):
